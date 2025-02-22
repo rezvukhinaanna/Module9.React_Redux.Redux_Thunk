@@ -1,0 +1,1 @@
+export const selectMassiveO = (state) => state.massiveO
