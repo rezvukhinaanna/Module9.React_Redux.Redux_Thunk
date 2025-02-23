@@ -1,1 +1,1 @@
-export const selectMassiveX = (state) => state.massiveX
+export const selectMassiveX = (state) => state.fieldState.massiveX

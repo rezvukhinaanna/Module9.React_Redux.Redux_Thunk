@@ -1,1 +1,1 @@
-export const selectIsGameEnded = (state) => state.isGameEnded
+export const selectIsGameEnded = (state) => state.informationState.isGameEnded

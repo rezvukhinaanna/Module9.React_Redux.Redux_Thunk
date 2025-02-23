@@ -1,1 +1,1 @@
-export const selectIsDraw = (state) => state.isDraw
+export const selectIsDraw = (state) => state.informationState.isDraw
